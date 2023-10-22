@@ -1,0 +1,25 @@
+.container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(51, 51, 116);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #c9e7eb;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+li:hover {
+    background-color: #656262;
+}
